@@ -1,0 +1,11 @@
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.Domain\bin\Debug\net6.0\App.Domain.deps.json
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.Domain\bin\Debug\net6.0\App.Domain.dll
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.Domain\bin\Debug\net6.0\App.Domain.pdb
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.Domain\obj\Debug\net6.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.Domain\obj\Debug\net6.0\App.Domain.AssemblyInfoInputs.cache
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.Domain\obj\Debug\net6.0\App.Domain.AssemblyInfo.cs
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.Domain\obj\Debug\net6.0\App.Domain.csproj.CoreCompileInputs.cache
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.Domain\obj\Debug\net6.0\App.Domain.dll
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.Domain\obj\Debug\net6.0\refint\App.Domain.dll
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.Domain\obj\Debug\net6.0\App.Domain.pdb
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.Domain\obj\Debug\net6.0\ref\App.Domain.dll

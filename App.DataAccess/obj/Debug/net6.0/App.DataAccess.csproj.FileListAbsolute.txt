@@ -1,0 +1,17 @@
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\bin\Debug\net6.0\App.DataAccess.deps.json
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\bin\Debug\net6.0\App.DataAccess.runtimeconfig.json
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\bin\Debug\net6.0\App.DataAccess.dll
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\bin\Debug\net6.0\App.DataAccess.pdb
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\bin\Debug\net6.0\App.Domain.dll
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\bin\Debug\net6.0\App.Domain.pdb
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\obj\Debug\net6.0\App.DataAccess.csproj.AssemblyReference.cache
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\obj\Debug\net6.0\App.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\obj\Debug\net6.0\App.DataAccess.AssemblyInfoInputs.cache
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\obj\Debug\net6.0\App.DataAccess.AssemblyInfo.cs
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\obj\Debug\net6.0\App.DataAccess.csproj.CoreCompileInputs.cache
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\obj\Debug\net6.0\App.DataAccess.csproj.CopyComplete
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\obj\Debug\net6.0\App.DataAccess.dll
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\obj\Debug\net6.0\refint\App.DataAccess.dll
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\obj\Debug\net6.0\App.DataAccess.pdb
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\obj\Debug\net6.0\App.DataAccess.genruntimeconfig.cache
+D:\A_MahmoudElSayed\UnitOfWork\MovieManagementSystem\App.DataAccess\obj\Debug\net6.0\ref\App.DataAccess.dll
